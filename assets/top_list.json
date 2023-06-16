@@ -1,0 +1,222 @@
+[
+    {
+        "name": "Aatrox",
+        "id": "266"
+    },
+    {
+        "name": "Akali",
+        "id": "84"
+    },
+    {
+        "name": "Akshan",
+        "id": "166"
+    },
+    {
+        "name": "Camille",
+        "id": "164"
+    },
+    {
+        "name": "Cassiopeia",
+        "id": "69"
+    },
+    {
+        "name": "Cho'Gath",
+        "id": "31"
+    },
+    {
+        "name": "Darius",
+        "id": "122"
+    },
+    {
+        "name": "Dr. Mundo",
+        "id": "36"
+    },
+    {
+        "name": "Fiora",
+        "id": "114"
+    },
+    {
+        "name": "Gangplank",
+        "id": "41"
+    },
+    {
+        "name": "Garen",
+        "id": "86"
+    },
+    {
+        "name": "Gnar",
+        "id": "150"
+    },
+    {
+        "name": "Gragas",
+        "id": "79"
+    },
+    {
+        "name": "Gwen",
+        "id": "887"
+    },
+    {
+        "name": "Illaoi",
+        "id": "420"
+    },
+    {
+        "name": "Irelia",
+        "id": "39"
+    },
+    {
+        "name": "Jax",
+        "id": "24"
+    },
+    {
+        "name": "Jayce",
+        "id": "126"
+    },
+    {
+        "name": "Kayle",
+        "id": "10"
+    },
+    {
+        "name": "Kennen",
+        "id": "85"
+    },
+    {
+        "name": "Kled",
+        "id": "240"
+    },
+    {
+        "name": "K'Sante",
+        "id": "897"
+    },
+    {
+        "name": "Malphite",
+        "id": "54"
+    },
+    {
+        "name": "Maokai",
+        "id": "57"
+    },
+    {
+        "name": "Wukong",
+        "id": "62"
+    },
+    {
+        "name": "Mordekaiser",
+        "id": "82"
+    },
+    {
+        "name": "Nasus",
+        "id": "75"
+    },
+    {
+        "name": "Olaf",
+        "id": "2"
+    },
+    {
+        "name": "Ornn",
+        "id": "516"
+    },
+    {
+        "name": "Pantheon",
+        "id": "80"
+    },
+    {
+        "name": "Poppy",
+        "id": "78"
+    },
+    {
+        "name": "Quinn",
+        "id": "133"
+    },
+    {
+        "name": "Renekton",
+        "id": "58"
+    },
+    {
+        "name": "Rengar",
+        "id": "107"
+    },
+    {
+        "name": "Riven",
+        "id": "92"
+    },
+    {
+        "name": "Rumble",
+        "id": "68"
+    },
+    {
+        "name": "Sejuani",
+        "id": "113"
+    },
+    {
+        "name": "Sett",
+        "id": "875"
+    },
+    {
+        "name": "Shen",
+        "id": "98"
+    },
+    {
+        "name": "Singed",
+        "id": "27"
+    },
+    {
+        "name": "Sion",
+        "id": "14"
+    },
+    {
+        "name": "Sylas",
+        "id": "517"
+    },
+    {
+        "name": "Tahm Kench",
+        "id": "223"
+    },
+    {
+        "name": "Teemo",
+        "id": "17"
+    },
+    {
+        "name": "Tryndamere",
+        "id": "23"
+    },
+    {
+        "name": "Udyr",
+        "id": "77"
+    },
+    {
+        "name": "Urgot",
+        "id": "6"
+    },
+    {
+        "name": "Vayne",
+        "id": "67"
+    },
+    {
+        "name": "Vladimir",
+        "id": "8"
+    },
+    {
+        "name": "Volibear",
+        "id": "106"
+    },
+    {
+        "name": "Warwick",
+        "id": "19"
+    },
+    {
+        "name": "Yasuo",
+        "id": "157"
+    },
+    {
+        "name": "Yone",
+        "id": "777"
+    },
+    {
+        "name": "Yorick",
+        "id": "83"
+    },
+    {
+        "name": "Zac",
+        "id": "154"
+    }
+]
